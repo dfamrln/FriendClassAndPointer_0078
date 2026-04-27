@@ -15,4 +15,8 @@ class LayangLayang {
     double d1, d2; // diagonal
     double s1, s2; // sisi
 
+    public:
+    double hitungLuas() {
+        return 0.5 * d1 * d2;
+    }
     
