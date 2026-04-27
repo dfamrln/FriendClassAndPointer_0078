@@ -10,4 +10,9 @@ using namespace std;
 class BelahKetupat;
 
 class LayangLayang {
-   
+    private:
+    //Lengkapi disini
+    double d1, d2; // diagonal
+    double s1, s2; // sisi
+
+    
