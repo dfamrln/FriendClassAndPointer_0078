@@ -76,4 +76,5 @@ int main() {
     tampilkanKeliling(ObjectLayang); 
     cout << "Keliling Belah Ketupat : " << ObjectBelah.hitungKeliling() << endl;
 
+    return 0;
 }
