@@ -64,5 +64,8 @@ int main() {
     LayangLayang ObjectLayang;
     BelahKetupat ObjectBelah;
 
-    
+    ObjectLayang.inputData();
+    ObjectBelah.inputData();
+
+   
 }
