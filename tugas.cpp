@@ -30,3 +30,10 @@ class LayangLayang {
         friend void tampilkanKeliling(LayangLayang &l);
 };
 
+class BelahKetupat {
+    private:
+    //Lengkapi disini
+    double d1, d2; // diagonal
+    double sisi;
+
+    
